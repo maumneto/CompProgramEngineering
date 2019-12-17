@@ -11,5 +11,6 @@ int main ()
         printf("Valor %d", valor);
         valor--;
     }
+    printf("\nFim");
     return 0;
 }
