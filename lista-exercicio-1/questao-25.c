@@ -15,7 +15,7 @@ int main(int argc, char const *argv[])
     {
         printf("\nNumero Invalido!");
     }
-        else
+    else
     {
         for (i = 0; i < termos; i++)
         {
