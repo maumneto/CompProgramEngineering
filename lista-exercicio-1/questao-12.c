@@ -10,12 +10,14 @@
 int main(int argc, char const *argv[])
 {
     // variaveis locais
-    float alt, pesoIdeal;
+    float pesoIdeal, alt;
     char genero;
     // entrada de dados
     printf("Digite seu genero:\nH-homem e M-mulher: ");
     scanf("%c", &genero);
     genero = toupper(genero); // converte o caractere digitado em uppercase
+    printf("Qual a sua altura? ");
+    scanf("%f", &alt);
     switch (genero)
     {
     case 'H':
@@ -27,7 +29,7 @@ int main(int argc, char const *argv[])
         printf("O peso ideal eh: %.2f", pesoIdeal);
         break;
     default:
-        printf('Opcao Invalida!');
+        printf("Opcao Invalida!");
         break;
     }
     return 0;

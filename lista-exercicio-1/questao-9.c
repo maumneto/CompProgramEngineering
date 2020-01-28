@@ -25,7 +25,7 @@ int main(int argc, char const *argv[])
         quad = valor * valor; // também é possível usar a funcao 'pow' da biblioteca math
         printf("\nQuadrado do numero: %d", quad);
         raiz = sqrt(valor); // funcao da biblioteca math.h
-        printf("\nQuadrado do numero: %.2f", raiz);
+        printf("\nA raiz quadrada do numero: %.2f", raiz);
     }
     return 0;
 }

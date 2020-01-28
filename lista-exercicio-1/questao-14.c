@@ -26,9 +26,9 @@ int main(int argc, char const *argv[])
     } 
         else
     {
-        printf("\nDigite o valor de B:");
+        printf("\nDigite o valor de B: ");
         scanf("%f", &b);
-        printf("\nDigite o valor de C:");
+        printf("\nDigite o valor de C: ");
         scanf("%f", &c);
         // calculo de delta
         delta = (b*b) - (4*a*c);

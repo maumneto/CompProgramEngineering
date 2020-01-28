@@ -37,7 +37,7 @@ int main(int argc, char const *argv[])
         printf("\nSabado");
         break;
     default:
-        rintf("\nValor Invalido.");
+        printf("\nValor Invalido.");
         break;
     }
 

@@ -17,7 +17,7 @@ int main(int argc, char const *argv[])
     {
         printf("\nO valor %.2f eh maior", a);
     } else {
-        printf("\nO valor %.2f eh maior", b);
+        printf("\nO valor %.2f eh o maior", b);
     }
     return 0;
 }
