@@ -16,17 +16,17 @@ int main(int argc, char const *argv[])
     if (valorAntigo <= 50)
     {
         valorNovo = valorAntigo*0.05;
-        printf("\nO valor reajustado eh: %.2f", valorNovo);
+        printf("\nO valor reajustado eh: %.2f", valorAntigo+valorNovo);
     } 
         else if (valorAntigo < 50 && valorAntigo >= 100)
     {
         valorNovo = valorAntigo*0.1;
-        printf("\nO valor reajustado eh: %.2f", valorNovo);
+        printf("\nO valor reajustado eh: %.2f", valorAntigo+valorNovo);
     } 
         else
     {
         valorNovo = valorAntigo*0.15;
-        printf("\nO valor reajustado eh: %.2f", valorNovo);
+        printf("\nO valor reajustado eh: %.2f", valorAntigo+valorNovo);
     } 
     return 0;
 }
