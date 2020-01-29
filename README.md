@@ -177,3 +177,4 @@ Esta lista de exercício é referente aos tópicos de:
 `14. Faça uma função que receba o número de termos ​n de fibonacci e retorne os ​n termos da sequência de fibonacci`
  
 `15. Faça uma função que receba uma matriz 4 x 4 e retorne quantos valores maiores do que 10 ela possui.`
+
