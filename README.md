@@ -31,7 +31,14 @@
 
 ----
 ### <b>Lista de Exercício 1</b>
-Esta lista de exercício é referente aos tópicos de: _algoritmos_ - _linguagem C_ - _tipos de dados_ - _comandos de entrada e saída de dados_ - _operadores_ - _estruturas de decisão_ e _estruturas de repetição_
+Esta lista de exercício é referente aos tópicos de: 
+* _algoritmos_ 
+* _linguagem C_
+* _tipos de dados_
+* _comandos de entrada e saída de dados_
+* _operadores_
+* _estruturas de decisão_
+* _estruturas de repetição_
 
 `3. Faça um programa em que o usuário digite três números e imprima a soma deles.`
    
