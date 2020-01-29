@@ -22,9 +22,9 @@
 
 <b>Lembre-se: </b> 
 
-><i>I hate programming, I hate programming, I hate programming!!
->Oh, it work!!
->I love programming so much...</i>
+><i>I hate programming, I hate programming, I hate programming!!<br>
+>Oh, it work!!<br>
+>I love programming so much...</i><br>
 > -- **Any programming student**
 
 - A seguir é descrito o enunciado das questões que cada `folder` possui!
