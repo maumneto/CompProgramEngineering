@@ -8,9 +8,9 @@ int main ()
 {
     int valor = 10;
     while (valor >= 0){
-        printf("Valor %d", valor);
+        printf("Valor %d\n", valor);
         valor--;
     }
-    printf("\nFim");
+    printf("Fim");
     return 0;
 }
