@@ -1,12 +1,4 @@
-/**
- * 24.	Faça um programa que apresente um menu de opções para cálculo das seguintes operações entre dois números:
-    a.	Adição (opção 1)
-    b.	Subtração (opção 2)
-    c.	Multiplicação (opção 3)
-    d.	Divisão (opção 4)
-    e.	Saída (opção 5)
-    O programa deve possibilitar ao usuário a escolha da operação desejada, a exibição do resultado.
-*/
+
 /**
  * 24.	Faça um programa que apresente um menu de opções para cálculo das seguintes operações entre dois números:
     a.	Adição (opção 1)
