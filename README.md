@@ -105,8 +105,8 @@ Acima de R$ 100         |       15%
 
 
 `20.   Faça um programa que calcule a diferença entre a soma dos quadrados dos primeiros 10 números naturais e o quadrado da soma. `
-`Exemplo: a soma dos quadrados dos dez primeiros números naturais é: 1<sup>2</sup>+ 2<sup>2</sup> + ... + 10<sup>2</sup> = 385`
-`O quadrado da soma dos dez primeiros números naturais é: (1 + 2 + ... + 10)<sup>2</sup> = 3025`
+`Exemplo: a soma dos quadrados dos dez primeiros números naturais é: 1²+ 2² + ... + 10² = 385`
+`O quadrado da soma dos dez primeiros números naturais é: (1 + 2 + ... + 10)² = 3025`
 `A diferença entre a soma dos quadrados dos dez primeiros números naturais e o quadrado da soma é: 3025 – 385 = 2640.`
 
 `21.  Escreva um programa que leia um número inteiro maior que zero e retorne a soma de todos os algarismos. Por exemplo: ao número 251 corresponderá o valor 8 (2+5+1). Se o número lido não for maior do que zero, programa terminará com a mensagem “número inválido”. Nota: para facilitar, limita-se o no máximo de 3 casas decimais.`
