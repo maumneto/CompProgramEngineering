@@ -1,6 +1,6 @@
 /**
  * 11.	Faça um programa que leia o salário de um trabalhador e o valor da prestação de um empréstimo. 
- * e a prestação for maior que 20% do salário imprima: 
+ * Se a prestação for maior que 20% do salário imprima: 
  * Empréstimo não concedido, caso contrário imprima: Empréstimo concedido. 
 */
 #include <stdio.h>
