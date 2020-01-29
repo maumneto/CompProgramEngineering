@@ -11,13 +11,21 @@ int main(int argc, char const *argv[])
     printf("Digite o numero de termos: ");
     scanf("%d", &termos);
     // logica do calculo de fibonacci
-    if (termos < 0)
+    if (termos <= 0)
     {
-        printf("\nNumero Invalido!");
+        printf("Numero Invalido!\n");
     }
-    else
+    else if (termos == 1) {
+        printf("0\n");
+    } else if (termos == 2) {
+        printf("0\n");
+        printf("1\n");
+    }
+        else
     {
-        for (i = 0; i < termos; i++)
+        printf("0\n");
+        printf("1\n");
+        for (i = 2; i < termos; i++)
         {
             aux = a + b;
             a = b;
@@ -25,6 +33,6 @@ int main(int argc, char const *argv[])
             printf("%d\n", aux);
         }
     }
-    printf("\nFIM");
+    printf("FIM");
     return 0;
 }

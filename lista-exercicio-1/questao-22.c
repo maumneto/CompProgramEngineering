@@ -24,7 +24,7 @@ int main(int argc, char const *argv[])
         // somatório dos elementos da serie
         for (i = 1; i <= numero; i++)
         {
-            soma = soma + (1/i);
+            soma = soma + (float) 1/i;
         }
         // saida de dados
         printf("\nO total de H(n) = %.2f", soma);

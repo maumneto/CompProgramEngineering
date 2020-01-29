@@ -28,12 +28,15 @@ int main(int argc, char const *argv[])
     {
     case 1:
         res = num1 + num2;
+        printf("\nO resultado eh: %.2f", res);
         break;
     case 2:
         res = num1 - num2;
+        printf("\nO resultado eh: %.2f", res);
         break;
     case 3:
         res = num1 * num2;
+        printf("\nO resultado eh: %.2f", res);
         break;
     case 4:
         if (num2 == 0)
@@ -43,6 +46,7 @@ int main(int argc, char const *argv[])
             else
         {
             res = num1 / num2;
+            printf("\nO resultado eh: %.2f", res);
         }
         break;
     default:
@@ -50,8 +54,6 @@ int main(int argc, char const *argv[])
         exit(0);
         break;
     }
-    // saida de dados
-    printf("\nO resultado eh: %.2f", res);
     return 0;
 }
 
