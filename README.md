@@ -133,3 +133,18 @@ Acima de R$ 100         |       15%
 `O programa deve possibilitar ao usuário a escolha da operação desejada, a exibição do resultado.`
 
 `25. Faça um programa que receba um número inteiro N e mostre os N termos da sequência de Fibonacci.`
+
+----
+### <b>Lista de Exercício 2</b>
+Esta lista de exercício é referente aos tópicos de: 
+* _arrays_ 
+* _string_
+* _struct_
+* _funções_
+* _ponteiros_
+
+`1. Faça um algoritmo que lê 6 valores inteiros e, em seguida, mostre na tela os valores lidos.`
+
+`2. Faça um algoritmo que leia um vetor de 10 posições. Contar e escrever quantos valores pares ele possui.`
+
+`3. Faça um algoritmo que receba do usuário um vetor com 10 posições. Em seguida deverá ser impresso o maior e o menor elemento do vetor.`
