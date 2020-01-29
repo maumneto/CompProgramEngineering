@@ -49,24 +49,24 @@ Esta lista de exercício é referente aos tópicos de: _algoritmos_ - _linguagem
 `a.	O quadrado do número digitado`
 `b.	A raiz quadrada do número`
 
-10. Faça um programa que leia um número digitado e diga se este número é par ou ímpar.
+`10. Faça um programa que leia um número digitado e diga se este número é par ou ímpar.`
     
-11. Faça um programa que leia o salário de um trabalhador e o valor da prestação de um empréstimo. Se a prestação for maior que 20% do salário imprima: **Empréstimo não concedido**, caso contrário imprima: **Empréstimo concedido**.
+`11. Faça um programa que leia o salário de um trabalhador e o valor da prestação de um empréstimo. Se a prestação for maior que 20% do salário imprima: **Empréstimo não concedido**, caso contrário imprima: **Empréstimo concedido**.`
     
-12. Faça um programa que receba a altura e o sexo de uma pessoa. Calcule e mostre seu peso ideal utilizando as seguintes fórmulas:
-a. Homens: (72.7*h) – 58
-b. Mulheres: (62.1*h) – 44.7
+`12. Faça um programa que receba a altura e o sexo de uma pessoa. Calcule e mostre seu peso ideal utilizando as seguintes fórmulas:`
+`a. Homens: (72.7*h) – 58`
+`b. Mulheres: (62.1*h) – 44.7`
 
-13. Use o comando switch para escrever um programa que leia um inteiro entre 1 e 7 e imprima o dia da semana correspondente a este número (exemplo: 1 – domingo, 2 – segunda-feira, etc).
+`13. Use o comando switch para escrever um programa que leia um inteiro entre 1 e 7 e imprima o dia da semana correspondente a este número (exemplo: 1 – domingo, 2 – segunda-feira, etc).`
 
-14. Faça um programa que calcule as raízes da equação de 2º grau. Lembre-se que: x = (-b ± √Δ)/2a onde Δ = b2 – 4ac
-E ax2 + bx + c = 0 representa uma equação do 2º grau.
-A variável 'a' tem que ser diferente de zero. Caso seja igual, imprima a mensagem “Não é equação do segundo grau”.
-    Se Δ<0, não existe real. Imprima a mensagem “Não existe raiz”.
-    Se Δ=0, existe uma raiz real. Imprima a raiz e a mensagem Raiz Única.
-    Se Δ≥0, imprima as duas raízes
+`14. Faça um programa que calcule as raízes da equação de 2º grau. Lembre-se que: x = (-b ± √Δ)/2a onde Δ = b2 – 4ac`
+`E ax2 + bx + c = 0 representa uma equação do 2º grau.`
+`A variável 'a' tem que ser diferente de zero. Caso seja igual, imprima a mensagem “Não é equação do segundo grau”.`
+    `Se Δ<0, não existe real. Imprima a mensagem “Não existe raiz”.`
+    `Se Δ=0, existe uma raiz real. Imprima a raiz e a mensagem Raiz Única.`
+    `Se Δ≥0, imprima as duas raízes`
 
-15. Faça um algoritmo que calcule o IMC de uma pessoa e mostre sua classificação de acordo com a tabela abaixo:
+`15. Faça um algoritmo que calcule o IMC de uma pessoa e mostre sua classificação de acordo com a tabela abaixo:`
     
 
 **IMC**         |  **Classificação**
@@ -79,7 +79,7 @@ A variável 'a' tem que ser diferente de zero. Caso seja igual, imprima a mensag
 \> 40           | Obesidade grau 3 -  mórbida
 
 
-16. Escreva um programa que leia o código do produto escolhido do cardápio de uma lanchonete e a quantidade. O programa deve calcular e o valor a ser pago por aquele determinado lanche. Considere que a cada execução somente será calculado um pedido. O cardápio da lanchonete segue abaixo:
+`16. Escreva um programa que leia o código do produto escolhido do cardápio de uma lanchonete e a quantidade. O programa deve calcular e o valor a ser pago por aquele determinado lanche. Considere que a cada execução somente será calculado um pedido. O cardápio da lanchonete segue abaixo:`
 
 **Especificação**         |  **Código**  |  **Preço** 
 ---------------------     | ------------ |  ---------------
@@ -90,7 +90,7 @@ Suco                      |     103      |  2.20
 Refrigerante              |     104      |  1.00
 
 
-17.  Um produto vai sofrer aumento de acordo com a tabela abaixo. Leia o preço antigo, calcule e escreva o novo preço, e escreva também uma mensagem em função do preço novo (de acordo com a seguinte tabela).
+`17.  Um produto vai sofrer aumento de acordo com a tabela abaixo. Leia o preço antigo, calcule e escreva o novo preço, e escreva também uma mensagem em função do preço novo (de acordo com a seguinte tabela).`
 
 **Preço Antigo**        |  **Percentual de Aumento**
 ---------------         | :------------------:
@@ -99,30 +99,30 @@ Entre R$ 50 e R$ 100    |       10%
 Acima de R$ 100         |       15%
 
 
-18.   Faça um programa que utilize o comando while para mostrar uma contagem regressiva na tela, iniciando em 10 e terminando em 0. Mostrar uma mensagem “FIM” após a contagem.
+`18.   Faça um programa que utilize o comando while para mostrar uma contagem regressiva na tela, iniciando em 10 e terminando em 0. Mostrar uma mensagem “FIM” após a contagem.`
 
-19. Faça um programa que peça para o usuário digitar 10 valores e calcule a média aritmética dos valores digitados. 
+`19. Faça um programa que peça para o usuário digitar 10 valores e calcule a média aritmética dos valores digitados.` 
 
 
-20.   Faça um programa que calcule a diferença entre a soma dos quadrados dos primeiros 10 números naturais e o quadrado da soma. 
-Exemplo: a soma dos quadrados dos dez primeiros números naturais é: 1<sup>2</sup>+ 2<sup>2</sup> + ... + 10<sup>2</sup> = 385
-O quadrado da soma dos dez primeiros números naturais é: (1 + 2 + ... + 10)<sup>2</sup> = 3025
-A diferença entre a soma dos quadrados dos dez primeiros números naturais e o quadrado da soma é: 3025 – 385 = 2640.
+`20.   Faça um programa que calcule a diferença entre a soma dos quadrados dos primeiros 10 números naturais e o quadrado da soma. `
+`Exemplo: a soma dos quadrados dos dez primeiros números naturais é: 1<sup>2</sup>+ 2<sup>2</sup> + ... + 10<sup>2</sup> = 385`
+`O quadrado da soma dos dez primeiros números naturais é: (1 + 2 + ... + 10)<sup>2</sup> = 3025`
+`A diferença entre a soma dos quadrados dos dez primeiros números naturais e o quadrado da soma é: 3025 – 385 = 2640.`
 
-21.  Escreva um programa que leia um número inteiro maior que zero e retorne a soma de todos os algarismos. Por exemplo: ao número 251 corresponderá o valor 8 (2+5+1). Se o número lido não for maior do que zero, programa terminará com a mensagem “número inválido”. Nota: para facilitar, limita-se o no máximo de 3 casas decimais.
+`21.  Escreva um programa que leia um número inteiro maior que zero e retorne a soma de todos os algarismos. Por exemplo: ao número 251 corresponderá o valor 8 (2+5+1). Se o número lido não for maior do que zero, programa terminará com a mensagem “número inválido”. Nota: para facilitar, limita-se o no máximo de 3 casas decimais.`
 
-22. Na matemática, o número harmônico designado por H(n) define-se como sendo a soma da série harmônica:
-    a. _H(n) = 1 + 1/2 + 1/3 + .... 1/n_
-Faça um programa que leia um valor de n inteiro e positivo e apresente o valor de H(n).
+`22. Na matemática, o número harmônico designado por H(n) define-se como sendo a soma da série harmônica:`
+    `a. _H(n) = 1 + 1/2 + 1/3 + .... 1/n_`
+`Faça um programa que leia um valor de n inteiro e positivo e apresente o valor de H(n).`
 
-23. Faça um programa que leia um valor digitado e calcule o fatorial deste número.
+`23. Faça um programa que leia um valor digitado e calcule o fatorial deste número.`
 
-24. Faça um programa que apresente um menu de opções para cálculo das seguintes operações entre dois números:
-    a.	Adição (opção 1)
-    b.	Subtração (opção 2)
-    c.	Multiplicação (opção 3)
-    d.	Divisão (opção 4)
-    e.	Saída (opção 5)
-O programa deve possibilitar ao usuário a escolha da operação desejada, a exibição do resultado.
+`24. Faça um programa que apresente um menu de opções para cálculo das seguintes operações entre dois números:`
+    `a.	Adição (opção 1)`
+    `b.	Subtração (opção 2)`
+    `c.	Multiplicação (opção 3)`
+    `d.	Divisão (opção 4)`
+    `e.	Saída (opção 5)`
+`O programa deve possibilitar ao usuário a escolha da operação desejada, a exibição do resultado.`
 
-25. Faça um programa que receba um número inteiro N e mostre os N termos da sequência de Fibonacci.
+`25. Faça um programa que receba um número inteiro N e mostre os N termos da sequência de Fibonacci.`
