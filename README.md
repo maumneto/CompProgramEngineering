@@ -33,21 +33,21 @@
 ### <b>Lista de Exercício 1</b>
 Esta lista de exercício é referente aos tópicos de: _algoritmos_ - _linguagem C_ - _tipos de dados_ - _comandos de entrada e saída de dados_ - _operadores_ - _estruturas de decisão_ e _estruturas de repetição_
 
-3. Faça um programa em que o usuário digite três números e imprima a soma deles.
+`3. Faça um programa em que o usuário digite três números e imprima a soma deles.`
    
-4. Faça um programa que leia uma temperatura em graus Celsius e apresente o resultado da conversão para Fahrenheit. Nota: a fórmula da conversão é: F = C*(9.0/5.0)+32.0, sendo F a temperatura em fahrenheit e C a temperatura em Celsius.
+`4. Faça um programa que leia uma temperatura em graus Celsius e apresente o resultado da conversão para Fahrenheit. Nota: a fórmula da conversão é: F = C*(9.0/5.0)+32.0, sendo F a temperatura em fahrenheit e C a temperatura em Celsius.`
    
-5. Faça um programa que leia uma temperatura em graus Kelvin e apresente-a convertida em graus Celsius. Nota: a fórmula da conversão é: K = C + 273.15, sendo C a temperatura em Celsius e K a temperatura em Kelvin.
+`5. Faça um programa que leia uma temperatura em graus Kelvin e apresente-a convertida em graus Celsius. Nota: a fórmula da conversão é: K = C + 273.15, sendo C a temperatura em Celsius e K a temperatura em Kelvin.`
    
-6. Faça um programa que leia um ângulo em graus e apresente a conversão em radianos. Nota: a fórmula de conversão é R = G*/180, sendo que G é o ângulo em graus e R em radianos.
+`6. Faça um programa que leia um ângulo em graus e apresente a conversão em radianos. Nota: a fórmula de conversão é R = G*/180, sendo que G é o ângulo em graus e R em radianos.`
    
-7. Faça um programa que leia quatro números e calcule a média aritmética e, posteriormente, imprima o resultado.
+`7. Faça um programa que leia quatro números e calcule a média aritmética e, posteriormente, imprima o resultado.`
    
-8. Faça um programa que receba dois números e mostre qual deles é o maior.
+`8. Faça um programa que receba dois números e mostre qual deles é o maior.`
    
-9.  Faça um programa que leia um número e, caso seja positivo, calcule e mostre:
-a.	O quadrado do número digitado
-b.	A raiz quadrada do número
+`9.  Faça um programa que leia um número e, caso seja positivo, calcule e mostre:`
+`a.	O quadrado do número digitado`
+`b.	A raiz quadrada do número`
 
 10. Faça um programa que leia um número digitado e diga se este número é par ou ímpar.
     
