@@ -11,7 +11,6 @@
 - Lattes: [Link Currículo Lattes](http://lattes.cnpq.br/7534400645876830)
 - E-mail: <maumneto@gmail.com>
 - Site: <http://lia.ufc.br/~maumneto/>
-- Site: <http://lia.ufc.br/~maumneto/>
 - Site da Disciplina: <https://maumneto.github.io/pce/index.html>
 
 ----
