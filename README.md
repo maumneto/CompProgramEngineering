@@ -178,3 +178,9 @@ Esta lista de exercício é referente aos tópicos de:
  
 `15. Faça uma função que receba uma matriz 4 x 4 e retorne quantos valores maiores do que 10 ela possui.`
 
+----
+
+### **It's time to code!! Have fun!!** 
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" height="100" center/>
+
