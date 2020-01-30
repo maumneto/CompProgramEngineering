@@ -13,7 +13,7 @@ int main(int argc, char const *argv[])
     printf("Digite o número de termos: ");
     scanf("%d", &numeros);
     fibonacci(numeros);
-    printf("\nFIM");
+    printf("FIM");
     return 0;
 }
 
@@ -22,11 +22,24 @@ void fibonacci(int num)
     int a, b, aux, i;
     a = 0;
     b = 1;
-    if (num < 0) 
+    if (num <= 0) 
     {
-        printf("\nNumero Invalido!");
-    }else{
-        for (i = 0; i < num; i++)
+        printf("Numero Invalido!");
+    }
+        else if (num == 1) 
+    {
+        printf("0\n");
+    }
+        else if (num == 2) 
+    {
+        printf("0\n");
+        printf("1\n");
+    }
+        else
+    {
+        printf("0\n");
+        printf("1\n");
+        for (i = 2; i < num; i++)
         {
             aux = a + b;
             a = b;

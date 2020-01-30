@@ -1,4 +1,4 @@
-/**
+/**     AJUSTAR ESSA QUESTAO!!
  * 9. Faça um algoritmo leia duas cadeias de caracteres A e B. 
  * Determine quantas vezes a cadeia A ocorre na cadeia B.
 */
@@ -33,7 +33,7 @@ int main(int argc, char const *argv[])
 
     }
     
-    printf("Existem %d palavras b dentro de a", cont);
+    printf("Existem %d palavras A dentro de B", cont);
 
     return 0;
 }

@@ -6,7 +6,7 @@
 
 int main(int argc, char const *argv[])
 {
-    char nome[10];
+    char nome[30];
     int i;
     printf("Digite o nome 1: ");
     scanf("%s", nome);
