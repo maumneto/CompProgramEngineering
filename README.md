@@ -22,9 +22,9 @@
 
 <b>Lembre-se: </b> 
 
-><i>I hate programming, I hate programming, I hate programming!!<br>
+><i>''I hate programming, I hate programming, I hate programming!!<br>
 >Oh, it work!!<br>
->I love programming so much...</i><br>
+>I love programming so much...''</i><br>
 > -- **Any programming student**
 
 - A seguir é descrito o enunciado das questões que cada `folder` possui!
@@ -47,7 +47,7 @@ Esta lista de exercício é referente aos tópicos de:
    
 `5. Faça um programa que leia uma temperatura em graus Kelvin e apresente-a convertida em graus Celsius. Nota: a fórmula da conversão é: K = C + 273.15, sendo C a temperatura em Celsius e K a temperatura em Kelvin.`
    
-`6. Faça um programa que leia um ângulo em graus e apresente a conversão em radianos. Nota: a fórmula de conversão é R = G*/180, sendo que G é o ângulo em graus e R em radianos.`
+`6. Faça um programa que leia um ângulo em graus e apresente a conversão em radianos. Nota: a fórmula de conversão é R = G*pi/180, sendo que G é o ângulo em graus e R em radianos.`
    
 `7. Faça um programa que leia quatro números e calcule a média aritmética e, posteriormente, imprima o resultado.`
    
@@ -59,7 +59,7 @@ Esta lista de exercício é referente aos tópicos de:
 
 `10. Faça um programa que leia um número digitado e diga se este número é par ou ímpar.`
     
-`11. Faça um programa que leia o salário de um trabalhador e o valor da prestação de um empréstimo. Se a prestação for maior que 20% do salário imprima: **Empréstimo não concedido**, caso contrário imprima: **Empréstimo concedido**.`
+`11. Faça um programa que leia o salário de um trabalhador e o valor da prestação de um empréstimo. Se a prestação for maior que 20% do salário imprima: Empréstimo não concedido, caso contrário imprima: Empréstimo concedido.`
     
 `12. Faça um programa que receba a altura e o sexo de uma pessoa. Calcule e mostre seu peso ideal utilizando as seguintes fórmulas:`
 `a. Homens: (72.7*h) – 58`
