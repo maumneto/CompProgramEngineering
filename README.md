@@ -181,6 +181,6 @@ Esta lista de exercício é referente aos tópicos de:
 ----
 
 ### **It's time to code!! Have fun!!** 
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" height="100" center/>
-
+<center>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" height="200" center/>
+</center>
