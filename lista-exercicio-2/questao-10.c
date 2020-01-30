@@ -1,4 +1,4 @@
-/**
+/**     AJUSTES
  * Considerando a estrutura
    struct Vetor{
         float x;
