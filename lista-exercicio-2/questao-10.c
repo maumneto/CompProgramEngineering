@@ -1,4 +1,4 @@
-/**     AJUSTES
+/**
  * Considerando a estrutura
    struct Vetor{
         float x;
@@ -9,14 +9,14 @@ para representar um vetor no R3 , implemente um algoritmo que calcule a soma de 
 #include <stdio.h>
 #include <stdlib.h>
 
-struct vetor{
+typedef struct{
     float x;
     float y;
     float z;
-};
+}vetor;
 
 int main() {
-    struct vetor vetor1,vetor2,vetorRes;
+    vetor vetor1,vetor2,vetorRes;
     
     printf(" ----- Dados Vetor 1 ----- \n");
     printf("Coordenada x: ");
