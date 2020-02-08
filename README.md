@@ -35,7 +35,7 @@
 
 ----
 ### <b>Executando o Código C</b>
-- Para executar alguns dos códigos basta abrir o `terminal` [ˆ1] e ir até o diretório onde esta o código que deseja ser executado.
+- Para executar alguns dos códigos basta abrir o `terminal` [^1] e ir até o diretório onde esta o código que deseja ser executado.
 
 - Dentro do diretório: execute (se estiver usando o compilador gcc):
   
@@ -49,7 +49,7 @@ $ gcc nome_do_programa.c -o nome_do_programa
 $ ./nome_do_programa
 ```
 
-[ˆ1]: Se estiver no *windows* é o `prompt` ou `cmd`.
+[^1]: Se estiver no *windows* é o `prompt` ou `cmd`.
 
 ----
 
