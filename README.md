@@ -1,4 +1,3 @@
-![](red)
 ## <b>Códigos das Questões em Linguagem C </b>
 -----
 [![GitHub issues](https://img.shields.io/github/issues/maumneto/programas-c)](https://github.com/maumneto/programas-c/issues)
