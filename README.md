@@ -1,6 +1,6 @@
 <!-- background: #ffffff -->
 ## <b>Códigos das Questões em Linguagem C </b>
------
+
 [![GitHub issues](https://img.shields.io/github/issues/maumneto/programas-c)](https://github.com/maumneto/programas-c/issues)
 [![GitHub forks](https://img.shields.io/github/forks/maumneto/programas-c)](https://github.com/maumneto/programas-c/network)
 [![GitHub stars](https://img.shields.io/github/stars/maumneto/programas-c)](https://github.com/maumneto/programas-c/stargazers)
@@ -38,6 +38,9 @@
 ----
 ### <b>Executando o Código C</b>
 - Para executar alguns dos códigos basta abrir o `terminal` (Se estiver no *windows* é o `prompt` ou `cmd`) e ir até o diretório onde esta o código que deseja ser executado.
+
+>[!NOTE]
+> Se estiver no *windows* é o `prompt` ou `cmd`.
 
 - Dentro do diretório: execute (se estiver usando o compilador gcc):
   
