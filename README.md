@@ -5,6 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/maumneto/programas-c)](https://github.com/maumneto/programas-c/network)
 [![GitHub stars](https://img.shields.io/github/stars/maumneto/programas-c)](https://github.com/maumneto/programas-c/stargazers)
 <img src="https://img.shields.io/badge/version-v1.0.2-orange">
+[![Build Status](https://travis-ci.com/maumneto/programas-c.svg?branch=master)](https://travis-ci.com/maumneto/programas-c)
 
 - Este material é destinado ao estudo de programação básica usando a linguagem C. 
 
