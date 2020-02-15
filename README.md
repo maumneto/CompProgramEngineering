@@ -39,9 +39,6 @@
 ### <b>Executando o Código C</b>
 - Para executar alguns dos códigos basta abrir o `terminal` (Se estiver no *windows* é o `prompt` ou `cmd`) e ir até o diretório onde esta o código que deseja ser executado.
 
->[!NOTE]
-> Se estiver no *windows* é o `prompt` ou `cmd`.
-
 - Dentro do diretório: execute (se estiver usando o compilador gcc):
   
 ```console
