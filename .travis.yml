@@ -6,3 +6,7 @@ compiler:
     - gcc
     - clang
 
+script:
+  - gcc -coverage -O0 lista-exercicio-1/questao-3.c -o questao-3
+  - ./questao-3
+  - gcov questao-3.c
