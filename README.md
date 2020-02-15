@@ -39,6 +39,28 @@
 ### <b>Executando o Código C</b>
 - Para executar alguns dos códigos basta abrir o `terminal` (Se estiver no *windows* é o `prompt` ou `cmd`) e ir até o diretório onde esta o código que deseja ser executado.
 
+```bash
+programas-c
+│
+├── lista-exercicio-1
+│   ├── questao-3.c
+│   ├── questao-4.c
+│   └── ...
+│
+├── lista-exercicio-2
+│   ├── questao-1.c
+│   ├── questao-2.c
+│   └── ...
+│
+├── projeto1-crud
+│   ├── projeto-crud.c
+│
+├── .gitattributes
+├── .gitignore
+├── .travis.yml
+└── README.md
+```
+
 - Dentro do diretório: execute (se estiver usando o compilador gcc):
   
 ```console
