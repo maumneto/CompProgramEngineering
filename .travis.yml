@@ -68,7 +68,7 @@ script:
   - gcc -coverage -O0 lista-exercicio-2/questao-12.c -o questao-12
   - gcc -coverage -O0 lista-exercicio-2/questao-13.c -o questao-13
   - gcc -coverage -O0 lista-exercicio-2/questao-14.c -o questao-14
-  - gcc -coverage -O0 lista-exercicio-2/questao-15.c -o questao-15
+  # - gcc -coverage -O0 lista-exercicio-2/questao-15.c -o questao-15
 
   - gcov questao-1.c
   - gcov questao-2.c
@@ -84,4 +84,4 @@ script:
   - gcov questao-12.c
   - gcov questao-13.c
   - gcov questao-14.c
-  - gcov questao-15.c
+  # - gcov questao-15.c
