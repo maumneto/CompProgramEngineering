@@ -88,3 +88,7 @@ script:
 # script of project 1
   - gcc -coverage -O0 projeto1-crud/projeto-crud.c -o projeto-crud
   - gcov projeto-crud.c
+
+# script of project 2
+  - gcc -coverage -O0 projeto2-crud-file/main.c screens.c register.c search.c remove_register.c update.c -o main
+  - gcov main.c
