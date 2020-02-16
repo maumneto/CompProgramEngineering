@@ -3,11 +3,11 @@ language: c
 os: osx
 
 compiler:
-    - gcc
-    - clang
+  - gcc
+  - clang
 
 script:
-# list question scripts
+  # list question scripts
   - gcc -coverage -O0 lista-exercicio-1/questao-3.c -o questao-3
   - gcc -coverage -O0 lista-exercicio-1/questao-4.c -o questao-4
   - gcc -coverage -O0 lista-exercicio-1/questao-5.c -o questao-5
@@ -55,7 +55,7 @@ script:
   - gcov questao-24.c
   - gcov questao-25.c
 
-# list question scripts
+  # list question scripts
   - gcc -coverage -O0 lista-exercicio-2/questao-1.c -o questao-1
   - gcc -coverage -O0 lista-exercicio-2/questao-2.c -o questao-2
   - gcc -coverage -O0 lista-exercicio-2/questao-3.c -o questao-3
@@ -85,10 +85,7 @@ script:
   - gcov questao-13.c
   - gcov questao-14.c
 
-# script of project 1
+  # script of project 1
   - gcc -coverage -O0 projeto1-crud/projeto-crud.c -o projeto-crud
   - gcov projeto-crud.c
 
-# script of project 2
-  - gcc -coverage -O0 projeto2-crud-file/main.c -o main
-  - gcov main.c
