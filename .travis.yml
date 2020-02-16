@@ -90,5 +90,5 @@ script:
   - gcov projeto-crud.c
 
 # script of project 2
-  - gcc -coverage -O0 projeto2-crud-file/main.c screens.c register.c search.c remove_register.c update.c -o main
+  - gcc -coverage -O0 projeto2-crud-file/main.c -o main
   - gcov main.c
