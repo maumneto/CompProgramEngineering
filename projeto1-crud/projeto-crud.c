@@ -2,7 +2,7 @@
  * -----------------------------------------------
  * ---- BEM VINDO AO PROJETO 1 - CRUD SIMPLES ----
  * -----------------------------------------------
- * @author: Maurício Neto (maumneto@gmail.com)
+ * @author: Maurício Neto (maumneto@gmail.com - @maumneto)
  * Este projeto tem o objetivo de desenvolver um CRUD simples. CRUD é um acrônimo para:
  * - Create
  * - Read
