@@ -37,7 +37,7 @@
 
 ----
 ### <b>Executando o Código C</b>
-- Para executar alguns dos códigos basta abrir o `terminal` (Se estiver no *windows* é o `prompt` ou `cmd`) e ir até o diretório onde esta o código que deseja ser executado.
+- Para executar os códigos basta abrir o `terminal` (Se estiver no *windows* é o `prompt` ou `cmd`) e ir até o diretório onde esta o código que deseja ser executado. A seguir é apresentado a lista de arquivos que este repositório possui:
 
 ```bash
 programas-c
