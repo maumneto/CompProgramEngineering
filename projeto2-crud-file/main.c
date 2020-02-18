@@ -90,6 +90,8 @@ int main(int argc, char const *argv[])
             break;
         }
     } while (choose >=1 && choose < 8);
+    system("clear");
+    final_screen();
 
     return EXIT_SUCCESS;
 }

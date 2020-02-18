@@ -126,8 +126,8 @@ Esta lista de exercício é referente aos tópicos de:
 
   **Observações:**
   - Este projeto possui diversos arquivos cabeçalhos e de implementação;
-
-  - O dados desse projeto são persistidos em um arquivo chamada `register.txt`
+- 
+  - O dados desse projeto são persistidos em um arquivo chamada `register.txt`;
 
   - Basta executar o comando a seguir para compilar o projeto:
 
@@ -140,7 +140,7 @@ Esta lista de exercício é referente aos tópicos de:
   ```console
   $ ./main
   ```
-
+  
 ----
 
 ### **It's time to code!! Have fun!!** 
