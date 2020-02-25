@@ -35,9 +35,7 @@
 
 - A seguir é descrito o enunciado das questões que cada `folder` possui!
 
-----
-### <b>Executando o Código C</b>
-- Para executar os códigos basta abrir o `terminal` (Se estiver no *windows* é o `prompt` ou `cmd`) e ir até o diretório onde esta o código que deseja ser executado. A seguir é apresentado a lista de arquivos que este repositório possui:
+ A seguir é apresentado a lista de arquivos que este repositório possui:
 
 ```bash
 programas-c
@@ -65,6 +63,10 @@ programas-c
 ├── .travis.yml
 └── README.md
 ```
+
+----
+### <b>Executando o Código C</b>
+- Para executar os códigos basta abrir o `terminal` (Se estiver no *windows* é o `prompt` ou `cmd`) e ir até o diretório onde esta o código que deseja ser executado.
 
 - Dentro do diretório: execute (se estiver usando o compilador gcc):
   
