@@ -52,7 +52,7 @@ programas-c
 │   └── ...
 │
 ├── projeto1-crud
-│   ├── projeto-crud.c
+│   └── projeto-crud.c
 │
 ├── projeto2-crud-file
 │   ├── main.c
