@@ -59,9 +59,9 @@ programas-c
 │   ├── register.c
 │   └── ...
 │
-├── .gitattributes
-├── .gitignore
-├── .travis.yml
+├── gitattributes
+├── gitignore
+├── travis.yml
 └── README.md
 ```
 
@@ -115,9 +115,11 @@ Esta lista de exercício é referente aos tópicos de:
 - Este projeto serve para treinar os elementos básicos da linguagem C.
   
   **Observações:**
-  - Este projeto tem somente um único arquivo;
-  - Posteriormente é aconselhável dividir o projeto em múltiplos arquivos com estruturas independentes;
-  - Outra característica desse projeto é que todos os dados são armazenados em cache, ou seja, não possui persistência de dados e não esta sendo abordado o conteúdo de arquivos;
+  - Este projeto tem somente um único arquivo
+  
+  - Posteriormente é aconselhável dividir o projeto em múltiplos arquivos com estruturas independentes
+  
+  - Outra característica desse projeto é que todos os dados são armazenados em cache, ou seja, não possui persistência de dados e não esta sendo abordado o conteúdo de arquivos
 
 ----
 
@@ -128,9 +130,9 @@ Esta lista de exercício é referente aos tópicos de:
 - O projeto 2 pode ser utilizado para entender melhor conceitos mais avançados de C. 
 
   **Observações:**
-  - Este projeto possui diversos arquivos cabeçalhos e de implementação;
-- 
-  - O dados desse projeto são persistidos em um arquivo chamada `register.txt`;
+  - Este projeto possui diversos arquivos cabeçalhos e de implementação
+ 
+  - O dados desse projeto são persistidos em um arquivo chamada `register.txt`
 
   - Basta executar o comando a seguir para compilar o projeto:
 
