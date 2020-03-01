@@ -39,22 +39,22 @@
  A seguir é apresentado a lista de arquivos que este repositório possui:
 
 ```bash
-programas-c
+programas-c/
 │
-├── lista-exercicio-1
+├── lista-exercicio-1/
 │   ├── questao-3.c
 │   ├── questao-4.c
 │   └── ...
 │
-├── lista-exercicio-2
+├── lista-exercicio-2/
 │   ├── questao-1.c
 │   ├── questao-2.c
 │   └── ...
 │
-├── projeto1-crud
+├── projeto1-crud/
 │   └── projeto-crud.c
 │
-├── projeto2-crud-file
+├── projeto2-crud-file/
 │   ├── main.c
 │   ├── register.c
 │   └── ...
