@@ -25,7 +25,7 @@
 ### <b>Hierarquia dos Materiais </b>
 - Cada `folder` possui um conjunto de arquivos C referentes as questões da lista de exercício.
 
-- A resolução da lista de exercício é de fundamental importância para a fixação do conteúdo ministrado (além de ser divertido!). 
+- A resolução da lista de exercício é de fundamental importância para a fixação do conteúdo ministrado (além de ser divertido! :smile:). 
 
 **Lembre-se:** 
 
