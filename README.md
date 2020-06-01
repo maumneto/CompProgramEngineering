@@ -92,13 +92,13 @@ gcc nome_do_programa.c -o nome_do_programa
 
 - Esta lista de exercício é referente aos tópicos de:
 
-  1. _algoritmos_
-  2. _linguagem C_
-  3. _tipos de dados_
-  4. _comandos de entrada e saída de dados_
-  5. _operadores_
-  6. _estruturas de decisão_
-  7. _estruturas de repetição_
+- _algoritmos_
+- _linguagem C_
+- _tipos de dados_
+- _comandos de entrada e saída de dados_
+- _operadores_
+- _estruturas de decisão_
+- _estruturas de repetição_
 
 - [Lista de exercício 1](markdown/lista-exercicio-1.md)
 
@@ -108,11 +108,11 @@ gcc nome_do_programa.c -o nome_do_programa
 
 Esta lista de exercício é referente aos tópicos de:
 
-  1. _arrays_
-  2. _string_
-  3. _struct_
-  4. _funções_
-  5. _ponteiros_
+- _arrays_
+- _string_
+- _struct_
+- _funções_
+- _ponteiros_
   
 - [Lista de exercício 2](markdown/lista-exercicio-2.md)
 
