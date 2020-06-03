@@ -1,11 +1,9 @@
-<!-- background: #ffffff -->
 # **Códigos das Questões em Linguagem C**
 
 [![GitHub issues](https://img.shields.io/github/issues/maumneto/programas-c)](https://github.com/maumneto/programas-c/issues)
 [![GitHub forks](https://img.shields.io/github/forks/maumneto/programas-c)](https://github.com/maumneto/programas-c/network)
 [![GitHub stars](https://img.shields.io/github/stars/maumneto/programas-c)](https://github.com/maumneto/programas-c/stargazers)
 ![Alt](https://img.shields.io/badge/version-v1.0.3-orange)
-<!-- <img src="https://img.shields.io/badge/version-v1.0.2-orange"> -->
 [![GitHub license](https://img.shields.io/github/license/maumneto/programas-c)](https://github.com/maumneto/programas-c/blob/master/LICENSE)
 [![Build Status](https://travis-ci.com/maumneto/programas-c.svg?branch=master)](https://travis-ci.com/maumneto/programas-c)
 
