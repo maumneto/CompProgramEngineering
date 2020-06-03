@@ -4,7 +4,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/maumneto/programas-c)](https://github.com/maumneto/programas-c/issues)
 [![GitHub forks](https://img.shields.io/github/forks/maumneto/programas-c)](https://github.com/maumneto/programas-c/network)
 [![GitHub stars](https://img.shields.io/github/stars/maumneto/programas-c)](https://github.com/maumneto/programas-c/stargazers)
-<img src="https://img.shields.io/badge/version-v1.0.2-orange">
+![Alt](https://img.shields.io/badge/version-v1.0.3-orange)
+<!-- <img src="https://img.shields.io/badge/version-v1.0.2-orange"> -->
 [![GitHub license](https://img.shields.io/github/license/maumneto/programas-c)](https://github.com/maumneto/programas-c/blob/master/LICENSE)
 [![Build Status](https://travis-ci.com/maumneto/programas-c.svg?branch=master)](https://travis-ci.com/maumneto/programas-c)
 
@@ -158,7 +159,6 @@ Esta lista de exercício é referente aos tópicos de:
   
 ----
 
-### **It's time to code!! Have fun!!** 
-<center>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" height="200" center/>
-</center>
+## **It's time to code!! Have fun!!**
+
+![Alt](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
