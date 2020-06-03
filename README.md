@@ -1,4 +1,4 @@
-# **Códigos das Questões em Linguagem C**
+# **Repositório de Códigos da Disciplina PCE**
 
 [![GitHub issues](https://img.shields.io/github/issues/maumneto/programas-c)](https://github.com/maumneto/programas-c/issues)
 [![GitHub forks](https://img.shields.io/github/forks/maumneto/programas-c)](https://github.com/maumneto/programas-c/network)
@@ -7,25 +7,27 @@
 [![GitHub license](https://img.shields.io/github/license/maumneto/programas-c)](https://github.com/maumneto/programas-c/blob/master/LICENSE)
 [![Build Status](https://travis-ci.com/maumneto/programas-c.svg?branch=master)](https://travis-ci.com/maumneto/programas-c)
 
-- Este material é destinado ao estudo de programação básica usando a linguagem C.
-
-- O intuito destas questões é fazer com que o aluno entenda a resolução de questões simples que envolvem o conteúdo de algoritmos e programação básica.
+- O intuito deste repositório é fazer com que o aluno tenham um arcabouço de questões que envolvam o conteúdo de programação básica usando a linguagem C. Neste repositório você encontrará resoluções de questões comumente utilizadas nas disciplinas de fundamentos de programação e demais disciplinas relacionadas. Também esta disposto nesse repositório alguns projetos exemplos para que possam guiá-los na criação dos seus próprios projetos.  
 
 ----
 
-## **Informações sobre o Professor**
+## **Informações sobre o Mantenedor deste Repositório**
 
 - Prof. Maurício Moreira Neto
+
 - Lattes: [Link Currículo Lattes](http://lattes.cnpq.br/7534400645876830)
+
 - E-mail: <maumneto@gmail.com>
+
 - Site: <http://lia.ufc.br/~maumneto/>
+
 - Site da Disciplina: <https://maumneto.github.io/pce/index.html>
 
 ----
 
-## **Hierarquia dos Materiais**
+## **Hierarquia dos Conteúdos**
 
-- Cada `folder` possui um conjunto de arquivos C referentes as questões da lista de exercício.
+- Neste repositório cada `folder` possui um conjunto de arquivos C referentes as questões da lista de exercício.
 
 - A resolução da lista de exercício é de fundamental importância para a fixação do conteúdo ministrado (além de ser divertido! :smile:).
 
@@ -40,7 +42,7 @@
 
  A seguir é apresentado a lista de arquivos que este repositório possui:
 
-```bash
+```command
 programas-c/
 │
 ├── lista-exercicio-1/
@@ -69,7 +71,7 @@ programas-c/
 
 ----
 
-## **Executando o Código C**
+## **Executando um Código C**
 
 - Para executar os códigos basta abrir o `terminal` (Se estiver no *windows* é o `prompt` ou `cmd`) e ir até o diretório onde esta o código que deseja ser executado.
 
@@ -128,7 +130,7 @@ Esta lista de exercício é referente aos tópicos de:
   
   - Posteriormente é aconselhável dividir o projeto em múltiplos arquivos com estruturas independentes
   
-  - Outra característica desse projeto é que todos os dados são armazenados em cache, ou seja, não possui persistência de dados e não esta sendo abordado o conteúdo de arquivos
+  - Outra característica desse projeto é que todos os dados são armazenados em cache, ou seja, não possui persistência de dados e não aborda o conteúdo de arquivos
 
 ----
 
