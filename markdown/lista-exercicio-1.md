@@ -1,25 +1,29 @@
-## <b>Lista de Exercício 1</b>
+# **Lista de Exercício 1**
+
+1. O que é um algoritmo? Cite três tipos de representação de algoritmos e as características de cada tipo de representação.
+
+2. Descreva como é realizado o processo de compilação na linguagem C.
 
 3. Faça um programa em que o usuário digite três números e  a soma deles.
-   
+
 4. Faça um programa que leia uma temperatura em graus Celsius e apresente o resultado da conversão para Fahrenheit. **Nota**: a fórmula da conversão é: _F = C * (9.0/5.0)+32.0_, sendo F a temperatura em fahrenheit e C a temperatura em Celsius.
-   
+
 5. Faça um programa que leia uma temperatura em graus Kelvin e apresente-a convertida em graus Celsius. **Nota**: a fórmula da conversão é: _K = C + 273.15_, sendo C a temperatura em Celsius e K a temperatura em Kelvin.
-   
+
 6. Faça um programa que leia um ângulo em graus e apresente a conversão em radianos. **Nota**: a fórmula de conversão é _R = G * $\pi$/180_, sendo que G é o ângulo em graus e R em radianos.
-   
+
 7. Faça um programa que leia quatro números e calcule a média aritmética e, posteriormente, imprima o resultado.
-   
+
 8. Faça um programa que receba dois números e mostre qual deles é o maior.
-   
-9.  Faça um programa que leia um número e, caso seja positivo, calcule e mostre:
+
+9. Faça um programa que leia um número e, caso seja positivo, calcule e mostre:
     * O quadrado do número digitado
     * A raiz quadrada do número
 
 10. Faça um programa que leia um número digitado e diga se este número é par ou ímpar.
-    
+
 11. Faça um programa que leia o salário de um trabalhador e o valor da prestação de um empréstimo. Se a prestação for maior que 20% do salário imprima: **Empréstimo não concedido**, caso contrário imprima: **Empréstimo concedido**.
-    
+
 12. Faça um programa que receba a altura e o sexo de uma pessoa. Calcule e mostre seu peso ideal utilizando as seguintes fórmulas:
     * Homens: _(72.7 * h) – 58_
     * Mulheres: _(62.1 * h) – 44.7_
@@ -44,9 +48,7 @@ A variável 'a' tem que ser diferente de zero. Caso seja igual, imprima a mensag
 \> 35 e <= 40   | Obesidade grau 2 -  severa
 \> 40           | Obesidade grau 3 -  mórbida
 
-
 16. Escreva um programa que leia o código do produto escolhido do cardápio de uma lanchonete e a quantidade. O programa deve calcular e o valor a ser pago por aquele determinado lanche. Considere que a cada execução somente será calculado um pedido. O cardápio da lanchonete segue abaixo:
-
 
 **Especificação**         |  **Código**  |  **Preço** 
 ---------------------     | ------------ |  ---------------
@@ -56,7 +58,6 @@ Hamburguer                |     102      |  1.50
 Suco                      |     103      |  2.20
 Refrigerante              |     104      |  1.00
 
-
 17.  Um produto vai sofrer aumento de acordo com a tabela abaixo. Leia o preço antigo, calcule e escreva o novo preço, e escreva também uma mensagem em função do preço novo (de acordo com a seguinte tabela).
 
 **Preço Antigo**        |  **Percentual de Aumento**
@@ -65,19 +66,19 @@ Até R$ 50               |       5%
 Entre R$ 50 e R$ 100    |       10%
 Acima de R$ 100         |       15%
 
-18.   Faça um programa que utilize o comando while para mostrar uma contagem regressiva na tela, iniciando em 10 e terminando em 0. Mostrar uma mensagem “FIM” após a contagem.
+18. Faça um programa que utilize o comando while para mostrar uma contagem regressiva na tela, iniciando em 10 e terminando em 0. Mostrar uma mensagem “FIM” após a contagem.
 
 19. Faça um programa que peça para o usuário digitar 10 valores e calcule a média aritmética dos valores digitados.
 
-20.   Faça um programa que calcule a diferença entre a soma dos quadrados dos primeiros 10 números naturais e o quadrado da soma. 
-      * Exemplo: a soma dos quadrados dos dez primeiros números naturais é: _1² + 2² + ... + 10² = 385_
-      * O quadrado da soma dos dez primeiros números naturais é: _(1 + 2 + ... + 10)² = 3025_
+20. Faça um programa que calcule a diferença entre a soma dos quadrados dos primeiros 10 números naturais e o quadrado da soma.
+    * Exemplo: a soma dos quadrados dos dez primeiros números naturais é: _1² + 2² + ... + 10² = 385_
+    * O quadrado da soma dos dez primeiros números naturais é: _(1 + 2 + ... + 10)² = 3025_
 A diferença entre a soma dos quadrados dos dez primeiros números naturais e o quadrado da soma é: _3025 – 385 = 2640_.
 
-21.  Escreva um programa que leia um número inteiro maior que zero e retorne a soma de todos os algarismos. Por exemplo: ao número 251 corresponderá o valor 8 (2+5+1). Se o número lido não for maior do que zero, programa terminará com a mensagem “número inválido”. Nota: para facilitar, limita-se o no máximo de 3 casas decimais.
+21. Escreva um programa que leia um número inteiro maior que zero e retorne a soma de todos os algarismos. Por exemplo: ao número 251 corresponderá o valor 8 (2+5+1). Se o número lido não for maior do que zero, programa terminará com a mensagem “número inválido”. Nota: para facilitar, limita-se o no máximo de 3 casas decimais.
 
 22. Na matemática, o número harmônico designado por H(n) define-se como sendo a soma da série harmônica:
-    * _H(n) = 1 + 1/2 + 1/3 + ... + 1/n_ 
+    * _H(n) = 1 + 1/2 + 1/3 + ... + 1/n_
 
 Faça um programa que leia um valor de n inteiro e positivo e apresente o valor de H(n).
 
