@@ -8,6 +8,7 @@ int main(){
     float y;
     char c;
     enum semana sem;
+    const double pi = 3.1415;
     // atribuição de valores a cada variavel
     sem = quinta; // enum
     x = 10; // int 
