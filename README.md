@@ -50,16 +50,6 @@ programas-c/
 │   ├── aula-2.c
 │   └── ...
 │
-├── lista-exercicio-1/
-│   ├── questao-3.c
-│   ├── questao-4.c
-│   └── ...
-│
-├── lista-exercicio-2/
-│   ├── questao-1.c
-│   ├── questao-2.c
-│   └── ...
-│
 ├── projeto1-crud/
 │   └── projeto-crud.c
 │
@@ -167,3 +157,16 @@ Esta lista de exercício é referente aos tópicos de:
 ## **It's time to code!! Have fun!!**
 
 ![Alt](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+<!-- 
+├── lista-exercicio-1/
+│   ├── questao-3.c
+│   ├── questao-4.c
+│   └── ...
+│
+├── lista-exercicio-2/
+│   ├── questao-1.c
+│   ├── questao-2.c
+│   └── ...
+│ 
+-->
