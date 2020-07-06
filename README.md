@@ -45,6 +45,11 @@
 ```command
 programas-c/
 │
+├── codigos-aula/
+│   ├── aula-1.c
+│   ├── aula-2.c
+│   └── ...
+│
 ├── lista-exercicio-1/
 │   ├── questao-3.c
 │   ├── questao-4.c
