@@ -1,8 +1,8 @@
 # gitignore
+lista-exercicio-1/questao-*.c
+lista-exercicio-2/questao-*.c
 .vscode/
 questao-*
 projeto-crud
 register.txt
 main
-lista-exercicio-1/
-lista-exercicio-2/
