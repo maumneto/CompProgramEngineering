@@ -7,7 +7,7 @@
 [![GitHub license](https://img.shields.io/github/license/maumneto/programas-c)](https://github.com/maumneto/programas-c/blob/master/LICENSE)
 [![Build Status](https://travis-ci.com/maumneto/programas-c.svg?branch=master)](https://travis-ci.com/maumneto/programas-c)
 
-- O intuito deste repositório é fazer com que o aluno tenham um arcabouço de questões que envolvam o conteúdo de programação básica usando a linguagem C. Neste repositório você encontrará resoluções de questões comumente utilizadas nas disciplinas de fundamentos de programação e demais disciplinas relacionadas. Também esta disposto nesse repositório alguns projetos exemplos para que possam guiá-los na criação dos seus próprios projetos.  
+O intuito deste repositório é fazer com que o aluno tenham um arcabouço de questões que envolvam o conteúdo de programação básica usando a linguagem C. Neste repositório você encontrará resoluções de questões comumente utilizadas nas disciplinas de fundamentos de programação e demais disciplinas relacionadas. Também esta disposto nesse repositório alguns projetos exemplos para que possam guiá-los na criação dos seus próprios projetos.  
 
 ----
 
