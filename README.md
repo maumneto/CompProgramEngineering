@@ -1,5 +1,3 @@
-# **Repositório de Códigos da Disciplina PCE**
-
 [![GitHub issues](https://img.shields.io/github/issues/maumneto/programas-c)](https://github.com/maumneto/programas-c/issues)
 [![GitHub forks](https://img.shields.io/github/forks/maumneto/programas-c)](https://github.com/maumneto/programas-c/network)
 [![GitHub stars](https://img.shields.io/github/stars/maumneto/programas-c)](https://github.com/maumneto/programas-c/stargazers)
@@ -7,129 +5,104 @@
 [![GitHub license](https://img.shields.io/github/license/maumneto/programas-c)](https://github.com/maumneto/programas-c/blob/master/LICENSE)
 [![Build Status](https://travis-ci.com/maumneto/programas-c.svg?branch=master)](https://travis-ci.com/maumneto/programas-c)
 
-O intuito deste repositório é fazer com que o aluno tenham um arcabouço de questões que envolvam o conteúdo de programação básica usando a linguagem C. Neste repositório você encontrará resoluções de questões comumente utilizadas nas disciplinas de fundamentos de programação e demais disciplinas relacionadas. Também esta disposto nesse repositório alguns projetos exemplos para que possam guiá-los na criação dos seus próprios projetos.  
+## **Computational Programming for Engineering Repository**
 
-----
+This repository goal is to provide support for students of the Computational Programming for Engineering course during the development of their programs using C language. This repository contains the codes of the problems presented in this course.
 
-## **Informações sobre o Mantenedor deste Repositório**
+
+<br />
+
+### **About Maintainer**
+
 
 - Prof. Maurício Moreira Neto
-
-- Lattes: [Link Currículo Lattes](http://lattes.cnpq.br/7534400645876830)
-
+- Lattes: [Link para Currículo Lattes](http://lattes.cnpq.br/7534400645876830)
 - E-mail: <maumneto@gmail.com>
+- website: [http://lia.ufc.br/~maumneto/](http://lia.ufc.br/~maumneto/)
+- Course Website: [PCE Website](https://maumneto.github.io/pce/index.html)
 
-- Site: <http://lia.ufc.br/~maumneto/>
+<br />
 
-- Site da Disciplina: <https://maumneto.github.io/pce/index.html>
+### **Contents**
 
-----
+- Each folder in this repository has a set of C files referring to the questions presented in the class.
 
-## **Hierarquia dos Conteúdos**
+- The solution of these questions is fundamental to fixing the content taught (besides it's fun 🤓)
 
-- Neste repositório cada `folder` possui um conjunto de arquivos C referentes as questões da lista de exercício.
-
-- A resolução da lista de exercício é de fundamental importância para a fixação do conteúdo ministrado (além de ser divertido! :smile:).
-
-**Lembre-se:**
+<br />
+ 
+**Remember:**
 
 >_''I hate programming, I hate programming, I hate programming!!_\
 >_Oh, it work!!_\
 >_I love programming so much...''_\
 > -- **Any programming student**
 
-- A seguir é descrito o enunciado das questões que cada `folder` possui!
+<br />
 
- A seguir é apresentado a lista de arquivos que este repositório possui:
+### **Running C Code**
 
-```command
-programas-c/
-│
-├── codigos-aula/
-│   ├── aula-1.c
-│   ├── aula-2.c
-│   └── ...
-│
-├── projeto1-crud/
-│   └── projeto-crud.c
-│
-├── projeto2-crud-file/
-│   ├── main.c
-│   ├── register.c
-│   └── ...
-│
-├── gitattributes
-├── gitignore
-├── travis.yml
-└── README.md
-```
+To running codes just open the terminal (if it is in windows you'll use the prompt or cmd) and change the directory where the code you want to run is
 
-----
-
-## **Executando um Código C**
-
-- Para executar os códigos basta abrir o `terminal` (Se estiver no *windows* é o `prompt` ou `cmd`) e ir até o diretório onde esta o código que deseja ser executado.
-
-- Dentro do diretório: execute (se estiver usando o compilador gcc):
+Within the directory target execute:
   
 ```console
-gcc nome_do_programa.c -o nome_do_programa
+gcc program_name.c -o program_name
 ```
 
-- Para executar:
+- To execute:
   
 ```console
-./nome_do_programa
+./program_name
 ```
 
-----
+---
 
-## **Lista de Exercício 1**
+### **Exercise List 1**
 
-- Esta lista de exercício é referente aos tópicos de:
+This exercise list is for the topics of:
 
-- _algoritmos_
-- _linguagem C_
-- _tipos de dados_
-- _comandos de entrada e saída de dados_
-- _operadores_
-- _estruturas de decisão_
-- _estruturas de repetição_
+- algorithm
+- C language
+- data types
+- input and output
+- operadors
+- conditional statement
+- loop statement
 
 - [Lista de exercício 1](markdown/lista-exercicio-1.md)
 
-----
+---
 
-## **Lista de Exercício 2**
+### **Exercise List 2**
 
-Esta lista de exercício é referente aos tópicos de:
+This exercise list is for the topics of:
 
-- _arrays_
-- _string_
-- _struct_
-- _funções_
-- _ponteiros_
+- arrays
+- string
+- struct
+- function
+- pointer
   
 - [Lista de exercício 2](markdown/lista-exercicio-2.md)
 
 ----
 
-## **Projeto 1 - CRUD Simples**
+## **Project 1 - CRUD Simple**
   
-- Este projeto tem o objetivo de desenvolver um CRUD simples.
+- This project aims to develop a simple CRUD.
 
-- Este projeto serve para treinar os elementos básicos da linguagem C.
+- This project serves to train the basic elements of the C language.
   
-  **Observações:**
-  - Este projeto tem somente um único arquivo
+  **IMPORTANT:**
+  - This project has only a single file
   
-  - Posteriormente é aconselhável dividir o projeto em múltiplos arquivos com estruturas independentes
+  - Subsequently, it is advisable to divide the project into multiple files with independent structures
   
-  - Outra característica desse projeto é que todos os dados são armazenados em cache, ou seja, não possui persistência de dados e não aborda o conteúdo de arquivos
+  - Another feature of this project is that all data is cached, that is, it does not have data persistence and does not address the content of files
 
-----
 
-## **Projeto 2 - CRUD usando Arquivo**
+<!-- ## **Projeto 2 - CRUD usando Arquivo**
 
 - Este projeto tem o objetivo de desenvolver um CRUD manipulando arquivo.
 
@@ -150,23 +123,10 @@ Esta lista de exercício é referente aos tópicos de:
   
   ```console
   ./main
-  ```
+  ``` -->
   
 ----
 
 ## **It's time to code!! Have fun!!**
 
 ![Alt](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-<!-- 
-├── lista-exercicio-1/
-│   ├── questao-3.c
-│   ├── questao-4.c
-│   └── ...
-│
-├── lista-exercicio-2/
-│   ├── questao-1.c
-│   ├── questao-2.c
-│   └── ...
-│ 
--->
