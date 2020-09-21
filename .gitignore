@@ -1,8 +1,6 @@
 # gitignore
 .vscode/
-.DS_Store
-lista-exercicio-1/*
-lista-exercicio-2/*
+.DS_Store   
 projeto-crud
 register.txt
 main
