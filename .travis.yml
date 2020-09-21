@@ -8,82 +8,82 @@ compiler:
 
 script:
   # list question scripts
-  # - gcc -coverage -O0 lista-exercicio-1/questao-3.c -o questao-3
-  # - gcc -coverage -O0 lista-exercicio-1/questao-4.c -o questao-4
-  # - gcc -coverage -O0 lista-exercicio-1/questao-5.c -o questao-5
-  # - gcc -coverage -O0 lista-exercicio-1/questao-6.c -o questao-6
-  # - gcc -coverage -O0 lista-exercicio-1/questao-7.c -o questao-7
-  # - gcc -coverage -O0 lista-exercicio-1/questao-8.c -o questao-8
-  # - gcc -coverage -O0 lista-exercicio-1/questao-9.c -o questao-9
-  # - gcc -coverage -O0 lista-exercicio-1/questao-10.c -o questao-10
-  # - gcc -coverage -O0 lista-exercicio-1/questao-11.c -o questao-11
-  # - gcc -coverage -O0 lista-exercicio-1/questao-12.c -o questao-12
-  # - gcc -coverage -O0 lista-exercicio-1/questao-13.c -o questao-13
-  # - gcc -coverage -O0 lista-exercicio-1/questao-14.c -o questao-14
-  # - gcc -coverage -O0 lista-exercicio-1/questao-15.c -o questao-15
-  # - gcc -coverage -O0 lista-exercicio-1/questao-16.c -o questao-16
-  # - gcc -coverage -O0 lista-exercicio-1/questao-17.c -o questao-17
-  # - gcc -coverage -O0 lista-exercicio-1/questao-18.c -o questao-18
-  # - gcc -coverage -O0 lista-exercicio-1/questao-19.c -o questao-19
-  # - gcc -coverage -O0 lista-exercicio-1/questao-20.c -o questao-20
-  # - gcc -coverage -O0 lista-exercicio-1/questao-21.c -o questao-21
-  # - gcc -coverage -O0 lista-exercicio-1/questao-22.c -o questao-22
-  # - gcc -coverage -O0 lista-exercicio-1/questao-23.c -o questao-23
-  # - gcc -coverage -O0 lista-exercicio-1/questao-24.c -o questao-24
-  # - gcc -coverage -O0 lista-exercicio-1/questao-25.c -o questao-25
-  # - gcov questao-3.c
-  # - gcov questao-4.c
-  # - gcov questao-5.c
-  # - gcov questao-6.c
-  # - gcov questao-7.c
-  # - gcov questao-8.c
-  # - gcov questao-9.c
-  # - gcov questao-10.c
-  # - gcov questao-11.c
-  # - gcov questao-12.c
-  # - gcov questao-13.c
-  # - gcov questao-14.c
-  # - gcov questao-15.c
-  # - gcov questao-16.c
-  # - gcov questao-17.c
-  # - gcov questao-18.c
-  # - gcov questao-19.c
-  # - gcov questao-20.c
-  # - gcov questao-21.c
-  # - gcov questao-22.c
-  # - gcov questao-23.c
-  # - gcov questao-24.c
-  # - gcov questao-25.c
+  - gcc -coverage -O0 lista-exercicio-1/questao-3.c -o questao-3
+  - gcc -coverage -O0 lista-exercicio-1/questao-4.c -o questao-4
+  - gcc -coverage -O0 lista-exercicio-1/questao-5.c -o questao-5
+  - gcc -coverage -O0 lista-exercicio-1/questao-6.c -o questao-6
+  - gcc -coverage -O0 lista-exercicio-1/questao-7.c -o questao-7
+  - gcc -coverage -O0 lista-exercicio-1/questao-8.c -o questao-8
+  - gcc -coverage -O0 lista-exercicio-1/questao-9.c -o questao-9
+  - gcc -coverage -O0 lista-exercicio-1/questao-10.c -o questao-10
+  - gcc -coverage -O0 lista-exercicio-1/questao-11.c -o questao-11
+  - gcc -coverage -O0 lista-exercicio-1/questao-12.c -o questao-12
+  - gcc -coverage -O0 lista-exercicio-1/questao-13.c -o questao-13
+  - gcc -coverage -O0 lista-exercicio-1/questao-14.c -o questao-14
+  - gcc -coverage -O0 lista-exercicio-1/questao-15.c -o questao-15
+  - gcc -coverage -O0 lista-exercicio-1/questao-16.c -o questao-16
+  - gcc -coverage -O0 lista-exercicio-1/questao-17.c -o questao-17
+  - gcc -coverage -O0 lista-exercicio-1/questao-18.c -o questao-18
+  - gcc -coverage -O0 lista-exercicio-1/questao-19.c -o questao-19
+  - gcc -coverage -O0 lista-exercicio-1/questao-20.c -o questao-20
+  - gcc -coverage -O0 lista-exercicio-1/questao-21.c -o questao-21
+  - gcc -coverage -O0 lista-exercicio-1/questao-22.c -o questao-22
+  - gcc -coverage -O0 lista-exercicio-1/questao-23.c -o questao-23
+  - gcc -coverage -O0 lista-exercicio-1/questao-24.c -o questao-24
+  - gcc -coverage -O0 lista-exercicio-1/questao-25.c -o questao-25
+  - gcov questao-3.c
+  - gcov questao-4.c
+  - gcov questao-5.c
+  - gcov questao-6.c
+  - gcov questao-7.c
+  - gcov questao-8.c
+  - gcov questao-9.c
+  - gcov questao-10.c
+  - gcov questao-11.c
+  - gcov questao-12.c
+  - gcov questao-13.c
+  - gcov questao-14.c
+  - gcov questao-15.c
+  - gcov questao-16.c
+  - gcov questao-17.c
+  - gcov questao-18.c
+  - gcov questao-19.c
+  - gcov questao-20.c
+  - gcov questao-21.c
+  - gcov questao-22.c
+  - gcov questao-23.c
+  - gcov questao-24.c
+  - gcov questao-25.c
 
   # list question scripts
-  # - gcc -coverage -O0 lista-exercicio-2/questao-1.c -o questao-1
-  # - gcc -coverage -O0 lista-exercicio-2/questao-2.c -o questao-2
-  # - gcc -coverage -O0 lista-exercicio-2/questao-3.c -o questao-3
-  # - gcc -coverage -O0 lista-exercicio-2/questao-4.c -o questao-4
-  # - gcc -coverage -O0 lista-exercicio-2/questao-5.c -o questao-5
-  # - gcc -coverage -O0 lista-exercicio-2/questao-6.c -o questao-6
-  # - gcc -coverage -O0 lista-exercicio-2/questao-7.c -o questao-7
-  # - gcc -coverage -O0 lista-exercicio-2/questao-8.c -o questao-8
-  # - gcc -coverage -O0 lista-exercicio-2/questao-9.c -o questao-9
-  # - gcc -coverage -O0 lista-exercicio-2/questao-10.c -o questao-10
-  # - gcc -coverage -O0 lista-exercicio-2/questao-11.c -o questao-11
-  # - gcc -coverage -O0 lista-exercicio-2/questao-12.c -o questao-12
-  # - gcc -coverage -O0 lista-exercicio-2/questao-13.c -o questao-13
-  # - gcc -coverage -O0 lista-exercicio-2/questao-14.c -o questao-14
-  # - gcov questao-1.c
-  # - gcov questao-2.c
-  # - gcov questao-3.c
-  # - gcov questao-4.c
-  # - gcov questao-5.c
-  # - gcov questao-6.c
-  # - gcov questao-7.c
-  # - gcov questao-8.c
-  # - gcov questao-9.c
-  # - gcov questao-10.c
-  # - gcov questao-11.c
-  # - gcov questao-12.c
-  # - gcov questao-13.c
-  # - gcov questao-14.c
+  - gcc -coverage -O0 lista-exercicio-2/questao-1.c -o questao-1
+  - gcc -coverage -O0 lista-exercicio-2/questao-2.c -o questao-2
+  - gcc -coverage -O0 lista-exercicio-2/questao-3.c -o questao-3
+  - gcc -coverage -O0 lista-exercicio-2/questao-4.c -o questao-4
+  - gcc -coverage -O0 lista-exercicio-2/questao-5.c -o questao-5
+  - gcc -coverage -O0 lista-exercicio-2/questao-6.c -o questao-6
+  - gcc -coverage -O0 lista-exercicio-2/questao-7.c -o questao-7
+  - gcc -coverage -O0 lista-exercicio-2/questao-8.c -o questao-8
+  - gcc -coverage -O0 lista-exercicio-2/questao-9.c -o questao-9
+  - gcc -coverage -O0 lista-exercicio-2/questao-10.c -o questao-10
+  - gcc -coverage -O0 lista-exercicio-2/questao-11.c -o questao-11
+  - gcc -coverage -O0 lista-exercicio-2/questao-12.c -o questao-12
+  - gcc -coverage -O0 lista-exercicio-2/questao-13.c -o questao-13
+  - gcc -coverage -O0 lista-exercicio-2/questao-14.c -o questao-14
+  - gcov questao-1.c
+  - gcov questao-2.c
+  - gcov questao-3.c
+  - gcov questao-4.c
+  - gcov questao-5.c
+  - gcov questao-6.c
+  - gcov questao-7.c
+  - gcov questao-8.c
+  - gcov questao-9.c
+  - gcov questao-10.c
+  - gcov questao-11.c
+  - gcov questao-12.c
+  - gcov questao-13.c
+  - gcov questao-14.c
 
   # script of project 1
   - gcc -coverage -O0 projeto1-crud/projeto-crud.c -o projeto-crud
