@@ -1,4 +1,4 @@
-jokenpio/**
+/**
  * @name Jokenpo Simples!
  * @author Maurício Moreira Neto
  * Este projeto simula o jogo pedra-papel-tesoura
@@ -12,7 +12,7 @@ jokenpio/**
 
 int main() 
 {
-    setlocale(LC_ALL, "portuguese");
+    setlocale(LC_ALL, "Portuguese");
     int user, computer;
 
     // tela de inicial do jogo!
@@ -40,7 +40,7 @@ int main()
     printf("\n");
     printf("Jogador --> %d\n", user);
     printf("Computador --> %d\n", computer);
-    printf("\n");
+    printf("\n");                                                                                   
 
     // Implementando a lógica do jogo!
     if (user == 0)
