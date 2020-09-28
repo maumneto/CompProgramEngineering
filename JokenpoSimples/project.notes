@@ -1,0 +1,44 @@
+-= Bem Vindo ao Primeiro Projeto Rápido =-
+[2020-09-10]
+
+Descrição:
+    - Pedra-Papel-Tesoura (também conhecido como Jokempô) é um jogo recreativo de mãos para duas ou mais pessoas. Este jogo não requer nenhum tipo de equipamento nem habilidades. [Wikipedia]
+
+Projeto:
+    - Nome: jankenSimple
+    - Linguagem: C 
+    O projeto JANKEN (diminutivo de JanKenPon) consiste na criação de um programa computacional usando a linguagem C que simula um jogo de Pedra-Papel-Tesoura.
+
+Conhecimentos Necessários:
+    1. Entrada e Saída de dados
+    2. Estruturas de Decisão
+    3. Estruturas de Repetição
+    4. Funções
+
+
+TODO:
+    [√] Criar um projeto com a estrutura inicial de um arquivo C
+    [√] Inserir os includes iniciais
+    [√] Criar entrada de dados
+    [√] Analisar se o dado fornecido esta correto
+    [√] Gerar a opção do computador
+    [√] Implementar a lógica do game
+    [√] Mostrar o resultado do jogo
+
+===> *IMPORTANT*: teremos uma continuação...ainda há diversas melhorias a serem feitas 
+
+Exemplos de FIXME:
+    [ ] Decompor esse código em Funções
+    [ ] Entrada de dados ser string
+        [ ] validar essa entrada!
+    [ ] Pedir para jogar mais de uma vez!
+    [ ] Pontuação
+    [ ] ...
+
+Executando o Projeto:
+    gcc jankenSimple.c -o jankenSimple
+    ./jankenSimple
+
+
+
+
